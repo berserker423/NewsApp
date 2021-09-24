@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_queenspark_bold.TTF.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/queenspark_bold.TTF"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_fragment_news.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_rounded_recyclerview_bg.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/rounded_recyclerview_bg.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_saved_news_list_item.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/saved_news_list_item.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_fragment_news_detail.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/fragment_news_detail.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_close.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_close.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_round_arrow_back_ios_new_24.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_round_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable_ic_news_brezze.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable/ic_news_brezze.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_separator_news_item.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/separator_news_item.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_top_cornered_bg.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/top_cornered_bg.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable_ic_filter.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_bookmark_filled.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_source_sans_pro.ttf.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/source_sans_pro.ttf"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_news_content_activity.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/news_content_activity.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_image.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_image.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_chomsky.otf.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/chomsky.otf"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_arrow_back.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_arrow_back.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_rounded_button_bg.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/rounded_button_bg.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_meal_item.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/meal_item.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_search.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_search.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_filter.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_filter.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_ic_bookmark_unfilled.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/ic_bookmark_unfilled.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_rounded_searchbar_bg.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/rounded_searchbar_bg.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_queenspark.TTF.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/queenspark.TTF"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_test_img.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/test_img.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_montserrat_bold.ttf.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/drawable-v24_splash_background.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/drawable-v24/splash_background.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_toolbar.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_news_list_item.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/news_list_item.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/font_montserrat.ttf.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/font/montserrat.ttf"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_footer_item.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/footer_item.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_activity_layout.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/activity_layout.xml"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/berserker/Desktop/learning/gg_assign-main/app/build/intermediates/merged_res/debug/layout_fragment_saved.xml.flat",
+        "source": "/Users/berserker/Desktop/learning/gg_assign-main/app/src/main/res/layout/fragment_saved.xml"
+    }
+]

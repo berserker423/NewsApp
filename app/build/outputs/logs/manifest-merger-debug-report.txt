@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3359cf74d37cd62afb380d7e87316ea5/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3e903ef8d5ce390f4376f8f352a2e078/transformed/databinding-ktx-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /Users/berserker/.gradle/caches/transforms-3/8408ecf42b7abdb7eab7650451c5cc21/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.paging:paging-runtime:3.0.1] /Users/berserker/.gradle/caches/transforms-3/35f5b4b38d6af7c978c5f5bc53d06b06/transformed/paging-runtime-3.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/berserker/.gradle/caches/transforms-3/08e58c2f46ec770e99e52db6a5776a6e/transformed/fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/berserker/.gradle/caches/transforms-3/b9ea84a1b2db7d88ca5707cf511487cd/transformed/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/c2292124b46e785f3baa2b4118d74853/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/a309735f268741b2f2d2d564b1b8ab36/transformed/room-paging-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/96675f9b7fb60e5911f6c4dabb47bf3a/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/a1d6d8f623e52045048616ee012e32ce/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/dcf1d6d79329dea972cdf15c402099da/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/berserker/.gradle/caches/transforms-3/500343863f64db2a66dd248cbdd2fd7a/transformed/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/berserker/.gradle/caches/transforms-3/0db70507450d500964bbc73a89a42a54/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/berserker/.gradle/caches/transforms-3/3f84c9bf076411ff6cf2d9fde1f8a30e/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/berserker/.gradle/caches/transforms-3/ce9e20defb349fb51c3d04e1d122113a/transformed/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/berserker/.gradle/caches/transforms-3/9319ba1179f1fdd65a0ea9ed826085bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/2a2bf5e737acbdb28defb399a313843e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berserker/.gradle/caches/transforms-3/60ab6495dd3fe756e08b0bcfe8244b1a/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/berserker/.gradle/caches/transforms-3/0d745c4657e90f0bba8ec526cdb27688/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/berserker/.gradle/caches/transforms-3/867f693e4a7fa24fced38a03aebcf61d/transformed/hilt-android-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/berserker/.gradle/caches/transforms-3/acd65212a3aad9c50c2d81efdaed39a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berserker/.gradle/caches/transforms-3/3e6bc1bdf52e31952c75c06ea93b72f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/berserker/.gradle/caches/transforms-3/b8987b18d8793545d5efefd691bab0dc/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berserker/.gradle/caches/transforms-3/aa25fdb1fe495e592f46441d8717e41a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berserker/.gradle/caches/transforms-3/063ad6e43b58108109efaff5c8bfdaa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/berserker/.gradle/caches/transforms-3/b52d638851a8051fa52d200536f00c07/transformed/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/berserker/.gradle/caches/transforms-3/b443a4bf10bb64cfcd884cf4a6a4da40/transformed/fragment-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berserker/.gradle/caches/transforms-3/145b2361af3903b9ca7c6a741f580508/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7c8088b60476616b5ccd1a1e39009a02/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/berserker/.gradle/caches/transforms-3/5fb40a9e12097ee007bb8cf55f13efa8/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berserker/.gradle/caches/transforms-3/4098dbd4dafaedc77ab4f8a36165344f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/1b8f07ab4016dc527bd99df7151a5336/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.2] /Users/berserker/.gradle/caches/transforms-3/0665bb02266b09426dc1e6b6ccc1dd2e/transformed/activity-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/berserker/.gradle/caches/transforms-3/a0072d040bcb8406c48546ede6f4f28d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/berserker/.gradle/caches/transforms-3/bc7c7c584229342e6a91a8392c0e71d1/transformed/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/berserker/.gradle/caches/transforms-3/ea4f1fb8aeefdfb2d8484d7e8870b325/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berserker/.gradle/caches/transforms-3/e64b3daf804dfd294c5661722c5ca525/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berserker/.gradle/caches/transforms-3/b47b8b83de275149c7c43ee21d1ed641/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berserker/.gradle/caches/transforms-3/068688c7e0d756e7cb9694a9a6c1eaa5/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d73d36b0bc92690d8b97843fce1d6c25/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d03ff010e7457b772f419dae33fce7c7/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berserker/.gradle/caches/transforms-3/375a6fc2e1e680e1723243967220600a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/berserker/.gradle/caches/transforms-3/6a9f955cee1f43b9f3310797e2901589/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berserker/.gradle/caches/transforms-3/972d744290c9ec6ca919ec656c6bd554/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berserker/.gradle/caches/transforms-3/f3f04f278f2e5d6dc1a0fd9346716767/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/9556c5d0a46d1d307670faab496d4d74/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7a5d66c6b3b42af9c633f70f79542397/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/ee42e747e6102178b4a34f9eda6876d7/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/080fb315b97faf4eaf5c61013e893db0/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berserker/.gradle/caches/transforms-3/d652a98d3d0513eb4f06cb34574bf507/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/berserker/.gradle/caches/transforms-3/88c0767e0f1729d6566fabd6b28204fa/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/berserker/.gradle/caches/transforms-3/ea22ee65a3d42efaf43e1a207b3da352/transformed/annotation-experimental-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/berserker/.gradle/caches/transforms-3/500343863f64db2a66dd248cbdd2fd7a/transformed/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/berserker/.gradle/caches/transforms-3/500343863f64db2a66dd248cbdd2fd7a/transformed/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/berserker/.gradle/caches/transforms-3/0db70507450d500964bbc73a89a42a54/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/berserker/.gradle/caches/transforms-3/0db70507450d500964bbc73a89a42a54/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/berserker/.gradle/caches/transforms-3/9319ba1179f1fdd65a0ea9ed826085bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/berserker/.gradle/caches/transforms-3/9319ba1179f1fdd65a0ea9ed826085bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/berserker/.gradle/caches/transforms-3/b52d638851a8051fa52d200536f00c07/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/berserker/.gradle/caches/transforms-3/b52d638851a8051fa52d200536f00c07/transformed/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/berserker/.gradle/caches/transforms-3/bc7c7c584229342e6a91a8392c0e71d1/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/berserker/.gradle/caches/transforms-3/bc7c7c584229342e6a91a8392c0e71d1/transformed/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/9556c5d0a46d1d307670faab496d4d74/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/9556c5d0a46d1d307670faab496d4d74/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:17:9-49
+	android:usesCleartextTraffic
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:11:9-68
+activity#com.greedygame.newsbreeze.feature.NewsActivity
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:18:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3359cf74d37cd62afb380d7e87316ea5/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3359cf74d37cd62afb380d7e87316ea5/transformed/databinding-adapters-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3e903ef8d5ce390f4376f8f352a2e078/transformed/databinding-ktx-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.0] /Users/berserker/.gradle/caches/transforms-3/3e903ef8d5ce390f4376f8f352a2e078/transformed/databinding-ktx-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /Users/berserker/.gradle/caches/transforms-3/8408ecf42b7abdb7eab7650451c5cc21/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.0] /Users/berserker/.gradle/caches/transforms-3/8408ecf42b7abdb7eab7650451c5cc21/transformed/databinding-runtime-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:3.0.1] /Users/berserker/.gradle/caches/transforms-3/35f5b4b38d6af7c978c5f5bc53d06b06/transformed/paging-runtime-3.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.0.1] /Users/berserker/.gradle/caches/transforms-3/35f5b4b38d6af7c978c5f5bc53d06b06/transformed/paging-runtime-3.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/berserker/.gradle/caches/transforms-3/08e58c2f46ec770e99e52db6a5776a6e/transformed/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /Users/berserker/.gradle/caches/transforms-3/08e58c2f46ec770e99e52db6a5776a6e/transformed/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/berserker/.gradle/caches/transforms-3/b9ea84a1b2db7d88ca5707cf511487cd/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/berserker/.gradle/caches/transforms-3/b9ea84a1b2db7d88ca5707cf511487cd/transformed/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/c2292124b46e785f3baa2b4118d74853/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/c2292124b46e785f3baa2b4118d74853/transformed/lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/a309735f268741b2f2d2d564b1b8ab36/transformed/room-paging-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/a309735f268741b2f2d2d564b1b8ab36/transformed/room-paging-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/96675f9b7fb60e5911f6c4dabb47bf3a/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/96675f9b7fb60e5911f6c4dabb47bf3a/transformed/room-ktx-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/a1d6d8f623e52045048616ee012e32ce/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/a1d6d8f623e52045048616ee012e32ce/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/dcf1d6d79329dea972cdf15c402099da/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/dcf1d6d79329dea972cdf15c402099da/transformed/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/berserker/.gradle/caches/transforms-3/500343863f64db2a66dd248cbdd2fd7a/transformed/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/berserker/.gradle/caches/transforms-3/500343863f64db2a66dd248cbdd2fd7a/transformed/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/berserker/.gradle/caches/transforms-3/0db70507450d500964bbc73a89a42a54/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/berserker/.gradle/caches/transforms-3/0db70507450d500964bbc73a89a42a54/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/berserker/.gradle/caches/transforms-3/3f84c9bf076411ff6cf2d9fde1f8a30e/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/berserker/.gradle/caches/transforms-3/3f84c9bf076411ff6cf2d9fde1f8a30e/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/berserker/.gradle/caches/transforms-3/ce9e20defb349fb51c3d04e1d122113a/transformed/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/berserker/.gradle/caches/transforms-3/ce9e20defb349fb51c3d04e1d122113a/transformed/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/berserker/.gradle/caches/transforms-3/9319ba1179f1fdd65a0ea9ed826085bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/berserker/.gradle/caches/transforms-3/9319ba1179f1fdd65a0ea9ed826085bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/2a2bf5e737acbdb28defb399a313843e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/2a2bf5e737acbdb28defb399a313843e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berserker/.gradle/caches/transforms-3/60ab6495dd3fe756e08b0bcfe8244b1a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/berserker/.gradle/caches/transforms-3/60ab6495dd3fe756e08b0bcfe8244b1a/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/berserker/.gradle/caches/transforms-3/0d745c4657e90f0bba8ec526cdb27688/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/berserker/.gradle/caches/transforms-3/0d745c4657e90f0bba8ec526cdb27688/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/berserker/.gradle/caches/transforms-3/867f693e4a7fa24fced38a03aebcf61d/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/berserker/.gradle/caches/transforms-3/867f693e4a7fa24fced38a03aebcf61d/transformed/hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/berserker/.gradle/caches/transforms-3/acd65212a3aad9c50c2d81efdaed39a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/berserker/.gradle/caches/transforms-3/acd65212a3aad9c50c2d81efdaed39a4/transformed/viewbinding-7.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berserker/.gradle/caches/transforms-3/3e6bc1bdf52e31952c75c06ea93b72f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/berserker/.gradle/caches/transforms-3/3e6bc1bdf52e31952c75c06ea93b72f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/berserker/.gradle/caches/transforms-3/b8987b18d8793545d5efefd691bab0dc/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/berserker/.gradle/caches/transforms-3/b8987b18d8793545d5efefd691bab0dc/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berserker/.gradle/caches/transforms-3/aa25fdb1fe495e592f46441d8717e41a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/berserker/.gradle/caches/transforms-3/aa25fdb1fe495e592f46441d8717e41a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berserker/.gradle/caches/transforms-3/063ad6e43b58108109efaff5c8bfdaa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/berserker/.gradle/caches/transforms-3/063ad6e43b58108109efaff5c8bfdaa5/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/berserker/.gradle/caches/transforms-3/b52d638851a8051fa52d200536f00c07/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/berserker/.gradle/caches/transforms-3/b52d638851a8051fa52d200536f00c07/transformed/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/berserker/.gradle/caches/transforms-3/b443a4bf10bb64cfcd884cf4a6a4da40/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] /Users/berserker/.gradle/caches/transforms-3/b443a4bf10bb64cfcd884cf4a6a4da40/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berserker/.gradle/caches/transforms-3/145b2361af3903b9ca7c6a741f580508/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/berserker/.gradle/caches/transforms-3/145b2361af3903b9ca7c6a741f580508/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7c8088b60476616b5ccd1a1e39009a02/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7c8088b60476616b5ccd1a1e39009a02/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/berserker/.gradle/caches/transforms-3/5fb40a9e12097ee007bb8cf55f13efa8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/berserker/.gradle/caches/transforms-3/5fb40a9e12097ee007bb8cf55f13efa8/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berserker/.gradle/caches/transforms-3/4098dbd4dafaedc77ab4f8a36165344f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/berserker/.gradle/caches/transforms-3/4098dbd4dafaedc77ab4f8a36165344f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/1b8f07ab4016dc527bd99df7151a5336/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/1b8f07ab4016dc527bd99df7151a5336/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/berserker/.gradle/caches/transforms-3/0665bb02266b09426dc1e6b6ccc1dd2e/transformed/activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/berserker/.gradle/caches/transforms-3/0665bb02266b09426dc1e6b6ccc1dd2e/transformed/activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/berserker/.gradle/caches/transforms-3/a0072d040bcb8406c48546ede6f4f28d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/berserker/.gradle/caches/transforms-3/a0072d040bcb8406c48546ede6f4f28d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/berserker/.gradle/caches/transforms-3/934056e11adbbdf43be7a93dd5f6fa1b/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/berserker/.gradle/caches/transforms-3/bc7c7c584229342e6a91a8392c0e71d1/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/berserker/.gradle/caches/transforms-3/bc7c7c584229342e6a91a8392c0e71d1/transformed/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/berserker/.gradle/caches/transforms-3/ea4f1fb8aeefdfb2d8484d7e8870b325/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/berserker/.gradle/caches/transforms-3/ea4f1fb8aeefdfb2d8484d7e8870b325/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berserker/.gradle/caches/transforms-3/e64b3daf804dfd294c5661722c5ca525/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/berserker/.gradle/caches/transforms-3/e64b3daf804dfd294c5661722c5ca525/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berserker/.gradle/caches/transforms-3/b47b8b83de275149c7c43ee21d1ed641/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/berserker/.gradle/caches/transforms-3/b47b8b83de275149c7c43ee21d1ed641/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berserker/.gradle/caches/transforms-3/068688c7e0d756e7cb9694a9a6c1eaa5/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/berserker/.gradle/caches/transforms-3/068688c7e0d756e7cb9694a9a6c1eaa5/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d73d36b0bc92690d8b97843fce1d6c25/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d73d36b0bc92690d8b97843fce1d6c25/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d03ff010e7457b772f419dae33fce7c7/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/berserker/.gradle/caches/transforms-3/d03ff010e7457b772f419dae33fce7c7/transformed/lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berserker/.gradle/caches/transforms-3/375a6fc2e1e680e1723243967220600a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/berserker/.gradle/caches/transforms-3/375a6fc2e1e680e1723243967220600a/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/berserker/.gradle/caches/transforms-3/6a9f955cee1f43b9f3310797e2901589/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/berserker/.gradle/caches/transforms-3/6a9f955cee1f43b9f3310797e2901589/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berserker/.gradle/caches/transforms-3/972d744290c9ec6ca919ec656c6bd554/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/berserker/.gradle/caches/transforms-3/972d744290c9ec6ca919ec656c6bd554/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berserker/.gradle/caches/transforms-3/f3f04f278f2e5d6dc1a0fd9346716767/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/berserker/.gradle/caches/transforms-3/f3f04f278f2e5d6dc1a0fd9346716767/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/9556c5d0a46d1d307670faab496d4d74/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/berserker/.gradle/caches/transforms-3/9556c5d0a46d1d307670faab496d4d74/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7a5d66c6b3b42af9c633f70f79542397/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/berserker/.gradle/caches/transforms-3/7a5d66c6b3b42af9c633f70f79542397/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/ee42e747e6102178b4a34f9eda6876d7/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/ee42e747e6102178b4a34f9eda6876d7/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/080fb315b97faf4eaf5c61013e893db0/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/berserker/.gradle/caches/transforms-3/080fb315b97faf4eaf5c61013e893db0/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berserker/.gradle/caches/transforms-3/d652a98d3d0513eb4f06cb34574bf507/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/berserker/.gradle/caches/transforms-3/d652a98d3d0513eb4f06cb34574bf507/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/berserker/.gradle/caches/transforms-3/88c0767e0f1729d6566fabd6b28204fa/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/berserker/.gradle/caches/transforms-3/88c0767e0f1729d6566fabd6b28204fa/transformed/dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/berserker/.gradle/caches/transforms-3/ea22ee65a3d42efaf43e1a207b3da352/transformed/annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/berserker/.gradle/caches/transforms-3/ea22ee65a3d42efaf43e1a207b3da352/transformed/annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		ADDED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/berserker/Desktop/learning/gg_assign-main/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/berserker/.gradle/caches/transforms-3/acd6e1254e2e4374e68e8ce04f0243e5/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/berserker/.gradle/caches/transforms-3/f3f3ac425aceaa66d53258d5a00f8051/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:26:13-74
