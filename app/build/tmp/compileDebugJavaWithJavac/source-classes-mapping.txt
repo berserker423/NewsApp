@@ -171,8 +171,8 @@ com/greedygame/newsbreeze/databinding/FragmentNewsBindingImpl.java
  com.greedygame.newsbreeze.databinding.FragmentNewsBindingImpl
 com/greedygame/newsbreeze/databinding/MealItemBinding.java
  com.greedygame.newsbreeze.databinding.MealItemBinding
-com/greedygame/newsbreeze/AndroidApplication_ComponentTreeDeps.java
- com.greedygame.newsbreeze.AndroidApplication_ComponentTreeDeps
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
 com/greedygame/newsbreeze/feature/detail/NewsDetailFragment_GeneratedInjector.java
  com.greedygame.newsbreeze.feature.detail.NewsDetailFragment_GeneratedInjector
 com/greedygame/newsbreeze/feature/detail/Hilt_NewsDetailFragment.java
@@ -185,5 +185,5 @@ hilt_aggregated_deps/_com_greedygame_newsbreeze_feature_saved_SavedListViewModel
  hilt_aggregated_deps._com_greedygame_newsbreeze_feature_saved_SavedListViewModel_HiltModules_KeyModule
 dagger/hilt/internal/processedrootsentinel/codegen/_com_greedygame_newsbreeze_AndroidApplication.java
  dagger.hilt.internal.processedrootsentinel.codegen._com_greedygame_newsbreeze_AndroidApplication
-androidx/databinding/DataBindingComponent.java
- androidx.databinding.DataBindingComponent
+com/greedygame/newsbreeze/AndroidApplication_ComponentTreeDeps.java
+ com.greedygame.newsbreeze.AndroidApplication_ComponentTreeDeps

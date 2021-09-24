@@ -81,16 +81,16 @@ import javax.annotation.processing.Generated;
         _dagger_hilt_android_internal_managers_ViewComponentManager_ViewWithFragmentComponentBuilderEntryPoint.class,
         _dagger_hilt_android_internal_modules_ApplicationContextModule.class,
         _dagger_hilt_android_internal_modules_HiltWrapper_ActivityModule.class,
-        _com_greedygame_newsbreeze_feature_NewsFragment_GeneratedInjector.class,
-        _com_greedygame_newsbreeze_feature_NewsViewModel_HiltModules_KeyModule.class,
-        _com_greedygame_newsbreeze_feature_saved_SavedListFragment_GeneratedInjector.class,
         _com_greedygame_newsbreeze_core_di_ApplicationModule.class,
-        _com_greedygame_newsbreeze_feature_saved_SavedListViewModel_HiltModules_BindsModule.class,
-        _com_greedygame_newsbreeze_AndroidApplication_GeneratedInjector.class,
         _com_greedygame_newsbreeze_core_base_BaseActivity_GeneratedInjector.class,
+        _com_greedygame_newsbreeze_feature_saved_SavedListFragment_GeneratedInjector.class,
+        _com_greedygame_newsbreeze_feature_NewsFragment_GeneratedInjector.class,
+        _com_greedygame_newsbreeze_feature_detail_NewsDetailFragment_GeneratedInjector.class,
+        _com_greedygame_newsbreeze_AndroidApplication_GeneratedInjector.class,
+        _com_greedygame_newsbreeze_feature_saved_SavedListViewModel_HiltModules_BindsModule.class,
         _com_greedygame_newsbreeze_feature_saved_SavedListViewModel_HiltModules_KeyModule.class,
         _com_greedygame_newsbreeze_feature_NewsViewModel_HiltModules_BindsModule.class,
-        _com_greedygame_newsbreeze_feature_detail_NewsDetailFragment_GeneratedInjector.class
+        _com_greedygame_newsbreeze_feature_NewsViewModel_HiltModules_KeyModule.class
     }
 )
 @Generated("dagger.hilt.processor.internal.root.RootProcessor")
