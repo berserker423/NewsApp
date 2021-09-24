@@ -179,7 +179,7 @@ class NewsFragment : BaseFragment<FragmentNewsBinding>(), ItemClickListener {
         }
     }
 
-    private fun search(query: String = "bitcoin") {
+    private fun search(query: String = "news") {
         // Make sure we cancel the previous job before creating a new one
         searchJob?.cancel()
         searchJob = lifecycleScope.launch {
